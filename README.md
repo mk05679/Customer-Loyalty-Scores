@@ -1,2 +1,3 @@
 # Customer-Loyalty-Scores
-To predict the Customer Loyalty Scores for one of the Merchant brands
+To predict the Customer Loyalty Scores for one of the Merchant brands.
+One of the largest payment brands in Brazil, is partnered with several merchants to offer promotions and discounts to their cardholders. They offer coupons and promotions for a diversified portfolio ranging from food to shopping for their cardholders, The Company’s main aim is to reduce their marketing costs by improving the customization specific to each customer and offer them with tailored promotions, thereby improving the customer experience and reduce irrelevant marketing costs. To achieve this, the organization wants to predict customer loyalty using Machine Learning models.
